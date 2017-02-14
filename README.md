@@ -1,4 +1,4 @@
-# csci561_assignment1
+# CSCI561 Assignment 1
 
 The	 Los	Angeles	 Lakers	are	 playing	against	 their	 rivals	 the	Boston	Celtics	 tonight.		 Lakers	 star	
 Jordan	Clarkson wants	to	arrive	earlier	today	to	prepare	himself	for	the	game,	and	he	is	leaving	
